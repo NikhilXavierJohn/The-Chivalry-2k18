@@ -1,0 +1,14 @@
+NRF24L01:-
+https://www.ebay.in/itm/NRF24L01-with-antenna-V5-0-PA-LNA-wireless-Module-8-Pin-1100-meters/232642731140?hash=item362a965c84:g:o~cAAOSwhRxXKaXW
+Arduino Nano:-
+https://www.ebay.in/itm/Arduino-Nano-UNSOLDERED-PINS-V3-0-ATmega328-CH340G/182932343388?hash=item2a979e0a5c:g:zowAAOSwH3haHW-Q
+NodeMcu:-
+https://www.ebay.in/itm/NodeMCU-ESP8266-WiFi-Internet-of-Things-Development-Board/182825398903?hash=item2a913e3277:g:9zkAAOSwnNFZsNsF
+Raspberry pi Zero W:-
+https://www.ebay.in/itm/Raspberry-Pi-Zero-W-v1-3-Development-Board-With-Case/172833360019?hash=item283dabc893:g:okMAAOSw3ZtaOeYt
+MQ-6 Combustible Gas sensor:-
+https://www.ebay.in/itm/MQ-6-Combustible-Gas-Propane-Butane-LPG-LNG-Detector-Sensor-Module-Arduino/331775575215?hash=item4d3f5d84af:g:PSQAAOSwu4BVv4Jx
+MQ-7 CO Carbon Monoxide Coal Gas Sensor:-
+https://www.ebay.in/itm/MQ-7-CO-Carbon-Monoxide-Coal-Gas-Sensor-Module/172900150155?hash=item2841a6eb8b:g:nMsAAOSwHpdZ0crR
+MQ 135 Air Quality Detector Sensor:-
+https://www.ebay.in/itm/MQ-135-Air-Quality-Detector-Sensor-Module-For-Arduino/172900158305?hash=item2841a70b61:g:APMAAOSwCi9Z0cxN
