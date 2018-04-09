@@ -12,3 +12,5 @@ MQ-7 CO Carbon Monoxide Coal Gas Sensor:-
 https://www.ebay.in/itm/MQ-7-CO-Carbon-Monoxide-Coal-Gas-Sensor-Module/172900150155?hash=item2841a6eb8b:g:nMsAAOSwHpdZ0crR
 MQ 135 Air Quality Detector Sensor:-
 https://www.ebay.in/itm/MQ-135-Air-Quality-Detector-Sensor-Module-For-Arduino/172900158305?hash=item2841a70b61:g:APMAAOSwCi9Z0cxN
+Jumper wires
+Oled displays 
